@@ -33,6 +33,7 @@ class PeopleContainer extends Component {
 		return (
 			<div>
 				<PersonInput addPerson={this.props.actions.addPerson} />
+				<br />
 				<PeopleList people={people} />
 			</div>
 		)

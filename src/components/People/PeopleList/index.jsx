@@ -3,9 +3,11 @@ import { array } from "prop-types"
 import Person from "../Person" // eslint-disable-line no-unused-vars
 
 const PeopleList = ({ people }) => (
-	<div>
+	<div className="wrapperCard">
 		{people.map(person =>
-			<Person key={person.lastname} person={person} />
+			<div className="card">
+				<Person key={person.lastname} person={person} />
+			</div>
 		)}
 	</div>
 )

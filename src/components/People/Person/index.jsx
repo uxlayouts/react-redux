@@ -4,7 +4,8 @@ import { object } from "prop-types"
 
 const Person = ({ person }) => (
 	<div>
-		{person.lastname}, {person.firstname}
+		<small>{person.lastname}</small><br />
+		<small>{person.firstname}</small><br />
 	</div>
 )
 
