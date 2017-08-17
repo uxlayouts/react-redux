@@ -9,9 +9,9 @@ React-Router-Config
 Eslint
 Unit Testing
 
+## Demo
 
-Below you will find some information on how to perform common tasks.<br>
-You can find the most recent version of this guide [Demo](https://uxlayouts.github.io/react-redux/).
+[Demo](https://uxlayouts.github.io/react-redux/).
 
 ## Table of Contents
 
