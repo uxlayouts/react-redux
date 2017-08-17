@@ -2,7 +2,7 @@
   "name": "react-redux",
   "version": "0.1.0",
   "private": false,
-  "homepage": ".",
+  "homepage": "https://uxlayouts.github.io/react-redux/",
   "dependencies": {
     "animated": "^0.2.0",
     "axios": "^0.16.2",

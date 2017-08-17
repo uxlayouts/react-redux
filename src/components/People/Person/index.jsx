@@ -5,7 +5,7 @@ import { object } from "prop-types"
 const Person = ({ person }) => (
 	<div>
 		<small>{person.lastname}</small><br />
-		<small>{person.firstname}</small><br />
+		<small>{person.firstname}</small>
 	</div>
 )
 
